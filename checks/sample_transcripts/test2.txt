@@ -1,0 +1,8 @@
+Meeting: Product Sync - Sept 20, 2026
+
+Anita: Let's review the launch checklist. Who's handling the landing page copy?
+Dev: I'll write the landing page copy by Wednesday.
+Anita: Perfect. We also need someone to test the checkout flow before launch.
+Riya: I can test checkout, I'll finish by end of this week.
+Anita: We might want to consider a referral program eventually, not urgent though.
+Dev: I'll also fix the broken signup email template, should be done tomorrow.
