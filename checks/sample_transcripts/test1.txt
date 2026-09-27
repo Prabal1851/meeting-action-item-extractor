@@ -1,0 +1,8 @@
+Meeting: Weekly Sync - Sept 27, 2026
+
+Priya: Okay let's go through open items. Raj, can you finish the API integration by Friday?
+Raj: Yeah, I'll get that done by Friday.
+Priya: Great. Someone needs to update the client on pricing changes.
+Sam: I'll send that email today.
+Priya: Also we should probably think about redesigning the onboarding flow at some point.
+Raj: I'll also review the pull request Sam opened yesterday, should have feedback by tomorrow.
