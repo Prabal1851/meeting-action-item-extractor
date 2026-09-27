@@ -12,6 +12,10 @@ meeting_date = st.date_input("Meeting date", value=date.today())
 if uploaded_file is not None:
     transcript = uploaded_file.read().decode("utf-8")
 
+    if not transcript.strip():
+        st.error("Transcript is empty.")
+        st.stop()
+
     with st.expander("View raw transcript"):
         st.text(transcript)
 
